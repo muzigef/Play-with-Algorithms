@@ -1,0 +1,156 @@
+﻿生成启动时间为 2020/3/15 23:51:37。
+     1>项目“C:\code\Play-with-Algorithms\Play-with-Algorithms\Play-with-Algorithms\Play-with-Algorithms.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp"
+         main.cpp
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(19): error C2146: 语法错误: 缺少“;”(在标识符“key”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(19): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(20): error C2146: 语法错误: 缺少“;”(在标识符“value”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(20): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(21): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(21): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(23): error C2061: 语法错误: 标识符“Key”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(23): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(27): warning C4183: “Node”:  缺少返回类型；假定为返回“int”的成员函数
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(24): error C2039: “key”: 不是“SequenceST”的成员
+                 c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(14) : 参见“SequenceST”的声明
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(24): error C2065: “key”: 未声明的标识符
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(25): error C2039: “value”: 不是“SequenceST”的成员
+                 c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(14) : 参见“SequenceST”的声明
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(25): error C2065: “value”: 未声明的标识符
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(26): error C2039: “next”: 不是“SequenceST”的成员
+                 c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(14) : 参见“SequenceST”的声明
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(30): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(30): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(32): error C2059: 语法错误:“public”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(34): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(34): error C2373: “head”: 重定义；不同的类型修饰符
+                 c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(30) : 参见“head”的声明
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(35): error C2086: “int count”: 重定义
+                 c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(31) : 参见“count”的声明
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(36): error C2059: 语法错误:“}”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(36): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(39): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(39): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(51): error C2059: 语法错误:“return”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(52): error C2059: 语法错误:“}”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(52): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(56): error C2059: 语法错误:“}”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(56): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(61): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(61): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(61): error C2086: “int Node”: 重定义
+                 c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(30) : 参见“Node”的声明
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(62): error C2059: 语法错误:“while”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(62): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(62): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(67): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(67): error C2373: “node”: 重定义；不同的类型修饰符
+                 c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(61) : 参见“node”的声明
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(67): error C2227: “->next”的左边必须指向类/结构/联合/泛型类型
+                 类型是“int *”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(68): error C2059: 语法错误:“}”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(68): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(72): error C2143: 语法错误 : 缺少“;”(在“->”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(72): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(73): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(73): error C2373: “head”: 重定义；不同的类型修饰符
+                 c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(30) : 参见“head”的声明
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(74): error C2143: 语法错误 : 缺少“;”(在“++”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(74): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(74): error C2086: “int count”: 重定义
+                 c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(31) : 参见“count”的声明
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(75): error C2059: 语法错误:“}”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(75): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(80): error C2059: 语法错误:“while”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(80): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(80): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(85): error C2059: 语法错误:“return”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(86): error C2059: 语法错误:“}”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(86): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(89): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(89): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(102): error C2059: 语法错误:“if”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(107): error C2059: 语法错误:“if”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(107): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(107): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(115): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(115): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(115): error C2086: “int Node”: 重定义
+                 c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(30) : 参见“Node”的声明
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(115): error C2374: “node”: 重定义；多次初始化
+                 c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(61) : 参见“node”的声明
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(116): error C2059: 语法错误:“while”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(119): error C2059: 语法错误:“if”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(119): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(119): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(126): error C2059: 语法错误:“}”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(126): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(127): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(127): error C2059: 语法错误:“}”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(19): error C2059: 语法错误:“for”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(19): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(19): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(19): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(19): error C2143: 语法错误 : 缺少“;”(在“++”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(19): error C2086: “int FileOps::i”: 重定义
+                 c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(19) : 参见“FileOps::i”的声明
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(19): error C2059: 语法错误:“)”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(22): error C2059: 语法错误:“return”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(39): error C2065: “filename”: 未声明的标识符
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(40): error C2059: 语法错误:“if”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(40): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(40): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(45): error C2059: 语法错误:“else”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(45): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(45): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(52): error C2059: 语法错误:“for”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(52): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(52): error C2143: 语法错误 : 缺少“;”(在“<=”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(52): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(52): error C2059: 语法错误:“)”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(53): error C2059: 语法错误:“if”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(53): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(53): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(58): error C2059: 语法错误:“else”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(61): error C2059: 语法错误:“return”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(62): error C2059: 语法错误:“}”
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(62): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(64): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\FileOps.h(64): error C2059: 语法错误:“}”
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(14): error C2146: 语法错误: 缺少“;”(在标识符“key”的前面)
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(14): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(15): error C2146: 语法错误: 缺少“;”(在标识符“value”的前面)
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(15): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(16): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(16): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(17): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(17): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(19): error C2061: 语法错误: 标识符“Key”
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(19): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(23): warning C4183: “Node”:  缺少返回类型；假定为返回“int”的成员函数
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(20): error C2039: “key”: 不是“BST”的成员
+                 ..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(10) : 参见“BST”的声明
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(20): error C2065: “key”: 未声明的标识符
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(21): error C2039: “value”: 不是“BST”的成员
+                 ..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(10) : 参见“BST”的声明
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(21): error C2065: “value”: 未声明的标识符
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(22): error C2039: “left”: 不是“BST”的成员
+                 ..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(10) : 参见“BST”的声明
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(22): error C2039: “right”: 不是“BST”的成员
+                 ..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(10) : 参见“BST”的声明
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(26): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(26): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(26): error C2086: “int Node”: 重定义
+                 c:\code\play-with-algorithms\trunk\05-binary-search-tree\course code (c++)\04-binary-search-tree-search\SequenceST.h(30) : 参见“Node”的声明
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(27): error C2059: 语法错误:“public”
+     1>..\..\trunk\05-Binary-Search-Tree\Course Code (C++)\04-Binary-Search-Tree-Search\main.cpp(27): fatal error C1003: 错误计数超过 100；正在停止编译
+     1>已完成生成项目“C:\code\Play-with-Algorithms\Play-with-Algorithms\Play-with-Algorithms\Play-with-Algorithms.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.29
